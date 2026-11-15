@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title description">
+  <title id="title">James Houlder — cloud, networks and cyber security</title>
+  <desc id="description">Off-white typography on charcoal with a strong red accent. A geometric samurai helmet sits over a red sun with restrained network lines. Build. Secure. Share.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#0B1014"/>
+      <stop offset="1" stop-color="#141B22"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E5252A"/>
+      <stop offset="1" stop-color="#B91C2B"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#E5252A"/>
+      <stop offset="1" stop-color="#E5252A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="500" rx="18" fill="url(#background)"/>
+  <path d="M0 0h1600v5H0z" fill="#E5252A"/>
+  <g stroke="#A9B4BE" stroke-width="1" fill="none" opacity="0.10">
+    <path d="M920 0v500M1080 0v500M1240 0v500M1400 0v500M1560 0v500"/>
+    <path d="M890 90h710M890 250h710M890 410h710"/>
+    <circle cx="1290" cy="229" r="190"/>
+    <circle cx="1290" cy="229" r="212" stroke-dasharray="3 11"/>
+  </g>
+  <circle cx="1290" cy="229" r="145" fill="url(#sun)"/>
+  <g stroke="#E5252A" stroke-width="2" fill="none">
+    <path d="M1100 140h-60l-32 32h-60"/>
+    <path d="M1466 286h47l30-30h57"/>
+    <path d="M1156 390h-92l-34-34h-66"/>
+    <circle cx="947" cy="172" r="5" fill="#0B1014"/>
+    <circle cx="964" cy="356" r="5" fill="#0B1014"/>
+    <circle cx="1466" cy="286" r="5" fill="#0B1014"/>
+  </g>
+  <!-- Original geometric helmet: no external assets, text or embedded raster. -->
+  <g stroke="#F7F4ED" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M1243 178c-30-14-47-36-48-66 19 20 37 28 57 27M1337 178c30-14 47-36 48-66-19 20-37 28-57 27" fill="#0B1014"/>
+    <path d="M1230 210c0-48 22-76 60-76s60 28 60 76l-18 17h-84z" fill="#0B1014"/>
+    <path d="M1290 148v54M1230 210h120" fill="none"/>
+    <path d="M1219 220l-22 78 30 16 20-70M1361 220l22 78-30 16-20-70" fill="#0B1014"/>
+    <path d="M1209 255l25 11M1203 278l25 11M1371 255l-25 11M1377 278l-25 11" fill="none"/>
+    <path d="M1245 222h90l-5 49-40 29-40-29z" fill="#0B1014"/>
+    <path d="M1261 237l16 7M1319 237l-16 7M1275 266h30" fill="none"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="84" fill="#FF5A52" font-size="17" font-weight="700" letter-spacing="5">BUILD. SECURE. SHARE.</text>
+    <text x="72" y="194" fill="#F7F4ED" font-size="76" font-weight="800" letter-spacing="-2">JAMES HOULDER</text>
+    <path d="M76 224c94-7 206-7 314-2l85 5-223 2-176 4z" fill="#E5252A"/>
+    <text x="76" y="285" fill="#F7F4ED" font-size="24" font-weight="600" letter-spacing="3">CLOUD · NETWORKS · CYBER SECURITY</text>
+    <text x="76" y="333" fill="#A9B4BE" font-size="22">Practical engineering. Open source. Learning in public.</text>
+    <text x="1290" y="371" fill="#F7F4ED" text-anchor="middle" font-size="24" font-weight="700" letter-spacing="5">SHOGUNET</text>
+    <path d="M76 401h1448" stroke="#A9B4BE" stroke-opacity="0.20"/>
+    <text x="76" y="447" fill="#A9B4BE" font-size="17" letter-spacing="1.5">IT MANAGER</text>
+    <path d="M248 433v17M524 433v17" stroke="#E5252A" stroke-width="2"/>
+    <text x="274" y="447" fill="#A9B4BE" font-size="17" letter-spacing="1.5">MSc STUDENT</text>
+    <text x="550" y="447" fill="#A9B4BE" font-size="17" letter-spacing="1.5">BUILDING DNS DADDY</text>
+    <text x="1524" y="447" fill="#F7F4ED" text-anchor="end" font-size="17" letter-spacing="1">jameshoulder.com</text>
+  </g>
+</svg>
